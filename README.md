@@ -86,7 +86,7 @@ Assessed business impact on patient care and healthcare efficiency
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/YourGitHubUsername/Deep-Learning-Medical-Imaging.git
+git clone https://github.com/Kartik97660/Medical-Image-Processing.git
 cd Deep-Learning-Medical-Imaging
 
 2️⃣ Install Dependencies
