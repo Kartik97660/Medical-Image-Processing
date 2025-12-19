@@ -1,3 +1,5 @@
+<img width="512" height="505" alt="image" src="https://github.com/user-attachments/assets/723f5312-1da2-4a7e-a903-1fa60e3d5b1f" />
+
 Deep Learning for Early Disease Detection in Medical Imaging
 
 📌 Project Overview
